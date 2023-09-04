@@ -7,7 +7,7 @@ import { BsGithub } from "react-icons/bs";
 function ProjectCards(props) {
   return (
     <Card className="project-card-view">
-      <Card.Img variant="top" src={props.imgPath} alt="card-img" style={{    minHeight: "250px"}} />
+      <Card.Img variant="top" src={props.imgPath} alt="card-img" style={{    minHeight: "250px",objectFit: "cover"}} />
       <Card.Body style={{    display: "flex",
     flexDirection: "column",
     justifyContent: "flex-start"}}>
