@@ -17,7 +17,10 @@ html {
 .purple {
   color: var(--imp-text-color) !important;
 }
-
+.logo_duytuit{
+  font-weight: bold;
+  font-family: sans-serif !important;
+}
 button:focus {
   box-shadow: none !important;
 }
