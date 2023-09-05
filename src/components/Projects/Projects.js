@@ -58,7 +58,7 @@ function Projects() {
               title="CMS ADMIN"
               description="The admin page is used to manage the content of websites, handle functional operations as required. Manage cronjobs that automatically retrieve updated data. built with nestjs and reactjs. UserName: admin, Pass: admin123"
               ghLink="https://github.com/duytuit/ui_cms_admin"
-              demoLink="http://103.107.183.175:4000/"
+              demoLink="http://103.107.183.175:4001/auth/login"
             />
           </Col>
         </Row>
