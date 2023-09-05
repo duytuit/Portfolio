@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.042dabc8.css",
-    "main.js": "/static/js/main.12a1a4a5.js",
+    "main.js": "/static/js/main.dcaab7e5.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/blog_demo.png": "/static/media/blog_demo.c3b3fbabe3204db218a7.png",
     "static/media/booking_demo.png": "/static/media/booking_demo.6c721e4a60ed3550e2aa.png",
     "static/media/chat_demo.png": "/static/media/chat_demo.1703babf512fc64636b6.png",
     "static/media/NguyenDuyTuCV.pdf": "/static/media/NguyenDuyTuCV.b369cbe2c12a758f3378.pdf",
+    "static/media/NguyenDuyTuCV.png": "/static/media/NguyenDuyTuCV.4b9d51548776f9c8f75a.png",
     "static/media/cms_admin_demo.png": "/static/media/cms_admin_demo.ba93da911a071a25f37a.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -16,12 +17,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.042dabc8.css.map": "/static/css/main.042dabc8.css.map",
-    "main.12a1a4a5.js.map": "/static/js/main.12a1a4a5.js.map",
+    "main.dcaab7e5.js.map": "/static/js/main.dcaab7e5.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.042dabc8.css",
-    "static/js/main.12a1a4a5.js"
+    "static/js/main.dcaab7e5.js"
   ]
 }
