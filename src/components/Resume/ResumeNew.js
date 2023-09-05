@@ -3,6 +3,7 @@ import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import pdf from "../../Assets/../Assets/NguyenDuyTuCV.pdf";
+import image_cv from "../../Assets/../Assets/NguyenDuyTuCV.png";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
@@ -31,11 +32,13 @@ function ResumeNew() {
           </Button>
         </Row>
 
-        <Row className="resume">
-          <Document file={pdf} className="d-flex justify-content-center">
-            <Page pageNumber={1} scale={width > 786 ? 0.9 :0.9} />
-          </Document>
-        </Row>
+        <div className="resume">
+          <img
+                src={image_cv}
+                alt="home pic"
+                className="img-fluid"
+              />
+        </div>
 
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
